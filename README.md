@@ -7,5 +7,7 @@
     -- shift of social geography - villages (clusters)/town, population density, migration frequency
     -- hygiene behaviors
 - data:  DHS, WHO(?)
+- method:
+  -- cluster analysis?
 
 See the background of the outbreak in 2014 in West Africa https://en.wikipedia.org/wiki/West_African_Ebola_virus_epidemic
