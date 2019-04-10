@@ -4,4 +4,6 @@ PMID: 27604708 (KentKrae16, Liberia, post-war healthcare utilization)
 
 PMID: 26536896 (SmitleCo15, spatial)
 
+PMID: 30799252 (Timothy, TimoHall19, West Africa, cross-sectional)
+
 PMID: 30928435 (Vinck, VincPham19, information and behavior)*
