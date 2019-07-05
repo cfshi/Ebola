@@ -1,3 +1,6 @@
+# How to write a paper:
+https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/
+
 # Ebola outbreak before and after in West Africa
 - To analyze the geographic change before and after the outbreak in Guinea, Liberia and Sierra Leone in 2014.
 - RQ:
