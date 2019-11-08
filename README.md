@@ -19,3 +19,4 @@ See the background of the outbreak in 2014 in West Africa https://en.wikipedia.o
 Methods:
 - interview:  doctors without boarders, field workers 
 - data analysis:  DHS, WHO etc
+- Is this paper useful in terms of using spatial method to study the before and after the outbreak? e.g., demographic change on migration, behavioral change of pulich health and knowledge etc?  https://www.ncbi.nlm.nih.gov/pubmed/31661902
